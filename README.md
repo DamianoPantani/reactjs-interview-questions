@@ -4363,7 +4363,7 @@
        2. Selectors are efficient. A selector is not recomputed unless one of its arguments changes.
        3. Selectors are composable. They can be used as input to other selectors.
 
-207. #### Give an example of Reselect usage?
+207. ### Give an example of Reselect usage?
 
      Let's take calculations and different amounts of a shipment order with the simplified usage of Reselect:
 
